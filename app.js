@@ -3,5 +3,5 @@
  * @since v0.1.0
  */
 function test() {
-  console.log("Hurrah!");
+  console.log("Hurrah Kill Thanos");
 }
