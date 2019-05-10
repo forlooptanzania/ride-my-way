@@ -1,3 +1,1 @@
-# Demo App for forloopALC
-
-- [x] Login page done
+# Ride-My-Way
