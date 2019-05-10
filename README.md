@@ -31,6 +31,8 @@ This capstone project is comprised of four (4) challenges. These challenges will
 2. [Understanding the GitHub flow](https://guides.github.com/introduction/flow/) - A 5 minute read to get you up and running with the kick-ass GitHub flow.
 3. [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.4) - A guide to writing commit messages that tell a story.
 4. [Mastering GitHub Issues](https://guides.github.com/features/issues/) - GitHub issues are too awesome just as this read puts it.
+5. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - A 3 minutes read to get you up and running with the easiest syntax of styling text on GitHub.
+
 
 ## What If I Have Questions?
 
