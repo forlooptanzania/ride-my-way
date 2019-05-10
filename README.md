@@ -6,7 +6,7 @@ Ride-My-Way app is a carpooling application that provides drivers with the abili
 
 This capstone project is comprised of four (4) challenges. These challenges will be executed and implemented by the learners and review by facilitators & mentors on a weekly basis. The learners must complete all to be considered eligible for a certificate of completion.
 
-## Required features
+## Required Features
 
 1. Users can create an account and log in.
 2. Drivers can add ride offers.
