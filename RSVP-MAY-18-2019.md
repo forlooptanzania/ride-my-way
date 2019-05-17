@@ -1,9 +1,9 @@
 # RSVP - May 18, 2019
 
-## Joshua Mabina (Male)
+## Harith Minhajj (Male)
 
-Fun fact: My web browser is vim-based.
+Fun fact: i like watching rally .
 
-- Email [mabinajoshua@gmail.com](mailto:mabinajoshua@gmail.com)
-- GitHub [joshuamabina](https://github.com/joshuambina)
-- Twitter [@joshuamabina](https://twitter.com/joshuamabina)
+- Email [minhajjharith@gmail.com](mailto:minhajjharith@gmail.com)
+- GitHub [20minhajj](https://github.com/20minhajj)
+- Twitter [@harithminhajj](https://twitter.com/harithminhajj)
