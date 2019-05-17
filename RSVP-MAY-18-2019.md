@@ -1,6 +1,6 @@
 # RSVP - May 18, 2019
 
-## Joshua Mabina (M)
+## Joshua Mabina (Male)
 
 Fun fact: My web browser is vim-based.
 
