@@ -38,7 +38,14 @@ This capstone project is comprised of four (4) challenges. These challenges will
 
 Questions are free to be asked.
 
-We ask that you participate in this ongoing [Create UI Templates][1] discussion, be it your question relates. Otherwise, please feel free to open an issue to stir a discussion with your peers and mentors.
+We ask that you participate in the following ongoing discussions:
+
+1. [Create UI Templates][1].
+1. [Implementing UI using React][2].
+1. [Create API Endpoints][3].
+1. [Crashing Web Services w/ Node][4].
+
+Otherwise, please feel free to open an issue to stir a discussion with your peers and mentors.
 
 ## Contacts
 
@@ -46,3 +53,6 @@ We ask that you participate in this ongoing [Create UI Templates][1] discussion,
 - Tweet to: [@forLoopTanzania](https://twitter.com)
 
 [1]: https://github.com/forlooptanzania/ride-my-way/issues/1 
+[2]: https://github.com/forlooptanzania/ride-my-way/issues/10
+[3]: https://github.com/forlooptanzania/ride-my-way/issues/25
+[4]: https://github.com/forlooptanzania/ride-my-way/issues/32
