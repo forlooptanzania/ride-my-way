@@ -36,9 +36,9 @@ This capstone project is comprised of four (4) challenges. These challenges will
 
 ## What If I Have Questions?
 
-Questions are free to be asked.
+Questions are free to be asked. Do not forget to take a peek at our [FAQs][faq] Guide.
 
-We ask that you participate in the following ongoing discussions:
+To ensure that we are consistent and effective, we ask that you participate in the following ongoing discussions:
 
 1. [Create UI Templates][1].
 1. [Implementing UI using React][2].
@@ -56,3 +56,5 @@ Otherwise, please feel free to open an issue to stir a discussion with your peer
 [2]: https://github.com/forlooptanzania/ride-my-way/issues/10
 [3]: https://github.com/forlooptanzania/ride-my-way/issues/25
 [4]: https://github.com/forlooptanzania/ride-my-way/issues/32
+
+[faq]: https://docs.google.com/document/d/1bY_D2mE97PH3-vLDxk3oZYSACBa_v0dQi9VtYGa6NQA/edit#
