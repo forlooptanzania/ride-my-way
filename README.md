@@ -41,9 +41,9 @@ Questions are free to be asked. Do not forget to take a peek at our [FAQs][faq] 
 To ensure that we are consistent and effective, we ask that you participate in the following ongoing discussions:
 
 1. [Create UI Templates][1].
-1. [Implementing UI using React][2].
-1. [Create API Endpoints][3].
-1. [Crashing Web Services w/ Node][4].
+2. [Implementing UI using React][2].
+3. [Create API Endpoints][3].
+4. [Crashing Web Services w/ Node][4].
 
 Otherwise, please feel free to open an issue to stir a discussion with your peers and mentors.
 
